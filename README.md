@@ -8,7 +8,8 @@ Criar uma API (tema livre) com:
 
 Api Rest para controle de produtos criada com spring boot, JPA, Junit
 
-[alt text](https://github.com/coutohenrique/banco-original/blob/master/img/swagger-0.JPG?raw=true)
+![List APIs](img/swagger-0.jpg "List API")
+
 
 
 
