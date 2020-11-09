@@ -8,7 +8,7 @@ Criar uma API (tema livre) com:
 
 Api Rest para controle de produtos criada com spring boot, JPA, Junit
 
-![List APIs](img/swagger-0.jpg "List API")
+![List APIs](img/swagger-0.png "List API")
 
 
 
