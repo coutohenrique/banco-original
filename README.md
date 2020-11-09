@@ -10,7 +10,7 @@ Api Rest para controle de produtos criada com spring boot, JPA, Junit
 
 ![List APIs](img/swagger-0.PNG "List API")
 
-![List APIs](img/swagger-0.JPG "List API")
+![List APIs](img/swagger-1.JPG "List API")
 
 
 
